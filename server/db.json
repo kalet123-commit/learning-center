@@ -1,0 +1,15 @@
+{
+  "profiles": [],
+  "users": [],
+  "students": [],
+  "courses": [
+    {
+      "id": 1,
+      "title": "sample",
+      "description": "sample text"
+    }
+  ],
+  "enrollments": [],
+  "progress-record-items": [],
+  "learning-path-items": []
+}
